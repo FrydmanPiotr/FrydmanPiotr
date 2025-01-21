@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm Piotr
 
-<!--
-**FrydmanPiotr/FrydmanPiotr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer, tech enthusiast, and software creator. My main interests include web development. I primarily work with C# and JavaScript.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: C#, Python, JavaScript
+- **Frameworks**: ASP.NET, Django
+- **Databases**: MSSQL, MySQL
+- **Tools**: Git
+
+## 🌱 Currently Learning
+
+- C#, ASP.NET, JS
+- Data analysis
+
+## 🔧 My Projects
+
+Here are a few projects I’m working on or have completed:
+
+1. **GeocachingApp** - Web application for geocaches seekers, C#, ASP.NET, JS, HTML, CSS, MSSQL
+2. **MyBlog** - Web application, Python, Django
+3. **ImgwApiClient** - Client for IMGW API, Python, WebAPI
+
+Feel free to check out my repositories for full documentation and code.
+
+## 📬 How to reach me
+
+- **Email**: piotrfrydman@outlook.com
+- **LinkedIn**: [LinkedIn](in/piotr-frydman)
+
+Thanks for visiting my profile! 😊
