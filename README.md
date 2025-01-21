@@ -27,6 +27,6 @@ Feel free to check out my repositories for full documentation and code.
 ## 📬 How to reach me
 
 - **Email**: piotrfrydman@outlook.com
-- **LinkedIn**: [LinkedIn](in/piotr-frydman)
+- **LinkedIn**: in/piotr-frydman
 
 Thanks for visiting my profile! 😊
