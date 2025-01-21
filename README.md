@@ -5,6 +5,12 @@ and I primarily work with C#, Python, and JavaScript.
 I'm passionate about building web applications, expanding my skills, and exploring new technologies. 
 Feel free to reach out if you have any questions or want to share experiences!
 
+
+## 📬 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piotrfrydman@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piotr-frydman)
+
 ## 🚀 Skills
 
 - **Programming Languages**: C#, Python, JavaScript
@@ -26,10 +32,5 @@ Here are a few projects I’m working on or have completed:
 3. **ImgwApiClient** - Client for IMGW API, Python, WebAPI
 
 Feel free to check out my repositories for full documentation and code.
-
-## 📬 How to reach me
-
-- **Email**: [piotrfrydman@outlook.com](mailto:piotrfrydman@outlook.com)
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/piotr-frydman)
 
 Thanks for visiting my profile! 😊
