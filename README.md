@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Piotr
 I'm a computer science student, tech enthusiast, and beginner programmer. My main focus is on web development, 
-and I primarily work with <span style="color:orange"> C#, Python, and JavaScript</span>
+and I primarily work with C#, Python, and JavaScript.
 
 I'm passionate about building web applications, expanding my skills, and exploring new technologies. 
 Feel free to reach out if you have any questions or want to share experiences!
