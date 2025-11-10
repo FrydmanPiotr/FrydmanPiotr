@@ -28,11 +28,4 @@ Here are a few projects I’m working on or have completed:
 - C#, ASP.NET, JS, CSS
 - Data analysis
 
-## 📬 How to reach me
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piotrfrydman@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piotr-frydman)
-
-Feel free to check out my repositories for full documentation and code.
-
 Thanks for visiting my profile! 😊
